@@ -1,0 +1,2 @@
+# swiss6
+proxy]
